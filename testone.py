@@ -3,7 +3,7 @@
 Created on Thu May  4 10:22:56 2017
 as the program test for the agricuture program of Dr. du
 
-自适应加权融合算法
+自适应加权融合算法-
 Adaptive weighted fusion algorithm
 
 @author: Jon Zang，杭州，15168307480，zangzelin@gmail.com
